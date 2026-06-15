@@ -115,16 +115,6 @@ Total Units Sold
 
 ---
 
-## 📷 Dashboard Screenshots
-
-### Executive Dashboard
-(Add Screenshot Here)
-
-### Sales Analysis Dashboard
-(Add Screenshot Here)
-
----
-
 ## 👨‍💻 Author
 
 **Tharun Kanketa**

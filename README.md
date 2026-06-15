@@ -105,7 +105,7 @@ Total Units Sold
 
 ## Sales Dashboard
 
-![Sales Dashboard](Screenshots/Sales_Dashboard.png)
+![Sales Dashboard](Screenshots/Sales_Analysis.png)
 
 ---
 
